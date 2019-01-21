@@ -1,4 +1,4 @@
-<?php namespace FiveSay\LaravelRouteGroup;
+<?php namespace Ahmachan\LaravelRouteGroup;
 
 class Facade extends \Illuminate\Support\Facades\Facade
 {

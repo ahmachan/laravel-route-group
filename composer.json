@@ -1,23 +1,14 @@
 {
     "name": "five-say/laravel-route-group",
-    "description": "Object-oriented route group.use like this: $route->get(...)->as(...)->uses(...)->before(...);",
+    "description": "Object-oriented route group.use",
     "keywords": ["laravel", "route", "group", "object"],
-    "authors": [
-        {
-            "name": "FiveSay",
-            "email": "bcw.5@foxmail.com"
-        }
-    ],
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "5.7.*"
     },
     "autoload": {
-        "classmap": [
-            "src/migrations"
-        ],
         "psr-0": {
-            "FiveSay\\LaravelRouteGroup\\": "src/"
+            "Ahmachan\\LaravelRouteGroup\\": "src/"
         }
     },
     "minimum-stability": "stable"

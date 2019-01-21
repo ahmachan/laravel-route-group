@@ -1,4 +1,4 @@
-<?php namespace FiveSay\LaravelRouteGroup;
+<?php namespace Ahmachan\LaravelRouteGroup;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
@@ -17,7 +17,7 @@ class ServiceProvider extends \Illuminate\Support\ServiceProvider
      */
     public function boot()
     {
-        $this->package('five-say/laravel-route-group');
+        $this->package('ahmachan/laravel-route-group');
     }
 
     /**

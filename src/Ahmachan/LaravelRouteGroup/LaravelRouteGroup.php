@@ -1,4 +1,4 @@
-<?php namespace FiveSay\LaravelRouteGroup;
+<?php namespace Ahmachan\LaravelRouteGroup;
 
 use Illuminate\Support\Facades\Route;
 
